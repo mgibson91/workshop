@@ -1,0 +1,12 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mgibson91/workshop.git",
+  "author": "Matt <matthewgibson91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.4"
+  }
+}
